@@ -18,5 +18,8 @@
     <ClCompile Include="Bugbusters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="index.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

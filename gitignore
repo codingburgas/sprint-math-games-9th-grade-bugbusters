@@ -1,0 +1,64 @@
+# ================================
+# Visual Studio build output
+# ================================
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+bin/
+obj/
+
+# Visual Studio database and temp files
+*.VC.db
+*.VC.opendb
+*.opendb
+*.pdb
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+
+# Visual Studio cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Auto-generated files
+*.cache
+*.dll
+*.exe
+*.lib
+*.exp
+*.log
+
+# ================================
+# CMake build output
+# ================================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# If using multi-config CMake generators
+CMakeBuild/
+
+# ================================
+# OS / editor files
+# ================================
+.DS_Store
+Thumbs.db
+
+# ================================
+# VS Code
+# ================================
+.vscode/
