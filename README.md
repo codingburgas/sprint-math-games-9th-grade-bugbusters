@@ -59,6 +59,18 @@ This project is perfect for **students**, **team assignments**, and anyone learn
 └── main.cpp
 
 ---
+💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞𝐬 𝐚𝐧𝐝 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐬 𝐰𝐞 𝐮𝐬𝐞𝐝 :
+
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f7faaa4b-a4d0-4622-935a-b1a3625b6b45" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/946b4d9c-2e56-4a4c-94b4-667234eee577" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e83413ed-4d19-48d4-91bb-b573ce75939f" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8fc3b67f-5d21-40ac-9529-62f4b6a776d2" />
+
+
+
+
+---
 
 ## 🔥 Features
 
