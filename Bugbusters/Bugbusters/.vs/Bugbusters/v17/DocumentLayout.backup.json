@@ -1,22 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\",
+  "WorkspaceRootPath": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Admin\\Documents\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|solutionrelative:Bugbusters\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|solutionrelative:Bugbusters\\src\\Console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Admin\\Documents\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|solutionrelative:Bugbusters\\src\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Difficulty.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|solutionrelative:Bugbusters\\header\\Difficulty.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Admin\\Documents\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Difficulty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|solutionrelative:Bugbusters\\src\\Difficulty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\CustomWords.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|solutionrelative:Bugbusters\\header\\CustomWords.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|solutionrelative:Bugbusters\\src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|solutionrelative:Bugbusters\\header\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Admin\\Documents\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\CustomWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|solutionrelative:Bugbusters\\src\\CustomWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|solutionrelative:Bugbusters\\header\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|solutionrelative:Bugbusters\\header\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|solutionrelative:Bugbusters\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Scoreboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|solutionrelative:Bugbusters\\src\\Scoreboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Scoreboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C25418C-0040-4A2E-9C8B-F66DAF0E5026}|Bugbusters\\Bugbusters.vcxproj|solutionrelative:Bugbusters\\header\\Scoreboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +58,163 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game.h",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Game.h",
-              "RelativeDocumentMoniker": "Bugbusters\\header\\Game.h",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Game.h",
-              "RelativeToolTip": "Bugbusters\\header\\Game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-04T20:11:01.144Z"
+              "DocumentIndex": 4,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Game.cpp",
+              "RelativeDocumentMoniker": "Bugbusters\\src\\Game.cpp",
+              "ToolTip": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Game.cpp",
+              "RelativeToolTip": "Bugbusters\\src\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T19:16:22.699Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
+              "Title": "Scoreboard.cpp",
+              "DocumentMoniker": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Scoreboard.cpp",
+              "RelativeDocumentMoniker": "Bugbusters\\src\\Scoreboard.cpp",
+              "ToolTip": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Scoreboard.cpp",
+              "RelativeToolTip": "Bugbusters\\src\\Scoreboard.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T19:14:50.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Scoreboard.h",
+              "DocumentMoniker": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Scoreboard.h",
+              "RelativeDocumentMoniker": "Bugbusters\\header\\Scoreboard.h",
+              "ToolTip": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Scoreboard.h",
+              "RelativeToolTip": "Bugbusters\\header\\Scoreboard.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-07T19:14:35.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomWords.cpp",
+              "DocumentMoniker": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\CustomWords.cpp",
+              "RelativeDocumentMoniker": "Bugbusters\\src\\CustomWords.cpp",
+              "ToolTip": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\CustomWords.cpp",
+              "RelativeToolTip": "Bugbusters\\src\\CustomWords.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T19:13:52.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomWords.h",
+              "DocumentMoniker": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\CustomWords.h",
+              "RelativeDocumentMoniker": "Bugbusters\\header\\CustomWords.h",
+              "ToolTip": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\CustomWords.h",
+              "RelativeToolTip": "Bugbusters\\header\\CustomWords.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-07T19:13:32.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Difficulty.cpp",
+              "DocumentMoniker": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Difficulty.cpp",
+              "RelativeDocumentMoniker": "Bugbusters\\src\\Difficulty.cpp",
+              "ToolTip": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Difficulty.cpp",
+              "RelativeToolTip": "Bugbusters\\src\\Difficulty.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T19:12:37.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Difficulty.h",
+              "DocumentMoniker": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Difficulty.h",
+              "RelativeDocumentMoniker": "Bugbusters\\header\\Difficulty.h",
+              "ToolTip": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Difficulty.h",
+              "RelativeToolTip": "Bugbusters\\header\\Difficulty.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-07T19:12:20.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Game.h",
+              "RelativeDocumentMoniker": "Bugbusters\\header\\Game.h",
+              "ToolTip": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Game.h",
+              "RelativeToolTip": "Bugbusters\\header\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-04T20:11:01.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.h",
+              "DocumentMoniker": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Menu.h",
+              "RelativeDocumentMoniker": "Bugbusters\\header\\Menu.h",
+              "ToolTip": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Menu.h",
+              "RelativeToolTip": "Bugbusters\\header\\Menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-02T20:51:16.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\Main.cpp",
               "RelativeDocumentMoniker": "Bugbusters\\Main.cpp",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\Main.cpp",
+              "ToolTip": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\Main.cpp",
               "RelativeToolTip": "Bugbusters\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-02T20:53:07.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Menu.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Menu.cpp",
-              "RelativeDocumentMoniker": "Bugbusters\\src\\Menu.cpp",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Menu.cpp",
-              "RelativeToolTip": "Bugbusters\\src\\Menu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-02T20:52:35.247Z"
+              "DocumentIndex": 7,
+              "Title": "Console.h",
+              "DocumentMoniker": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Console.h",
+              "RelativeDocumentMoniker": "Bugbusters\\header\\Console.h",
+              "ToolTip": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Console.h",
+              "RelativeToolTip": "Bugbusters\\header\\Console.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-07T19:11:05.497Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Menu.h",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Menu.h",
-              "RelativeDocumentMoniker": "Bugbusters\\header\\Menu.h",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\header\\Menu.h",
-              "RelativeToolTip": "Bugbusters\\header\\Menu.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-02T20:51:16.846Z"
+              "DocumentIndex": 0,
+              "Title": "Console.cpp",
+              "DocumentMoniker": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Console.cpp",
+              "RelativeDocumentMoniker": "Bugbusters\\src\\Console.cpp",
+              "ToolTip": "C:\\Users\\Hristiyan\\source\\repos\\sprint-math-games-9th-grade-bugbusters\\Bugbusters\\Bugbusters\\Bugbusters\\src\\Console.cpp",
+              "RelativeToolTip": "Bugbusters\\src\\Console.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T19:11:26.69Z",
+              "EditorCaption": ""
             }
           ]
         }

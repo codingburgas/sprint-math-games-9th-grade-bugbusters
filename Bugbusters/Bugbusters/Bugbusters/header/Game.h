@@ -1,21 +1,21 @@
 #pragma once
-#include <iostream>
-#include <vector>
 #include <string>
-using namespace std;
+#include <vector>
+#include "Difficulty.h"
+#include "CustomWords.h"
+#include "Scoreboard.h"
 
-class Game {
-public:
-    void startGame(); // Start the game
+namespace Hang {
 
-private:
-    string chooseWord(int category);
-    void displayWord(const string& word, const vector<char>& guessed);
-    void displayHangman(int wrongGuesses);
-    bool isWordGuessed(const string& word, const vector<char>& guessed);
-    void showHint(const string& word, vector<char>& guessed);
-    void printCentered(const string& text, int color = 15);
+    class Game {
+    public:
+        void startGame();
 
-    int maxAttempts;
-    int score;
-};
+    private:
+        std::string chooseWord();
+        void displayWord(const std::string& word, const std::vector<char>& guessed);
+        void displayHangman(int wrongGuesses);
+        bool isWordGuessed(const std::string& word, const std::vector<char>& guessed);
+    };
+
+}

@@ -1,34 +1,16 @@
+#pragma once
 
-#ifndef MENU_H
-#define MENU_H
-
-#include <string>
-
-namespace Game {
-
+namespace Hang {
 
     class Menu {
     public:
-
-        static void show();
+        Menu();
+        void show();
 
     private:
-
-        static void clearScreen();
-        static void printHeader();
-        static void drawSeparator();
-        static void waitForEnter();
-
-
-        static void startGame();
-        static void options();              // Options module
-        static void help();                 // Help module
-        static void highscores();           // Highscore module
-        static void customWordsSetting();   // CustomWordsSetting module
-        static void difficulty();           // Difficulty module
-        static void finalResult();          // FinalResult module
+        void printTitle();
+        void printOptions();
+        int getChoice();
     };
 
 }
-
-#endif // MENU_H
