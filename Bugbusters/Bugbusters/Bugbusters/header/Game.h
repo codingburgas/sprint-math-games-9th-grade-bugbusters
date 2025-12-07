@@ -1,9 +1,9 @@
 #pragma once
 #include <string>
 #include <vector>
-#include "Difficulty.h"
-#include "CustomWords.h"
-#include "Scoreboard.h"
+#include "../header/Difficulty.h"
+#include "../header/CustomWords.h"
+#include "../header/Scoreboard.h"
 
 namespace Hang {
 

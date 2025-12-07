@@ -1,2 +1,10 @@
 ﻿  Main.cpp
-  Bugbusters.vcxproj -> C:\Users\Hristiyan\source\repos\sprint-math-games-9th-grade-bugbusters\Bugbusters\Bugbusters\x64\Debug\Bugbusters.exe
+  Menu.h
+  Console.cpp
+  CustomWords.cpp
+  Difficulty.cpp
+  Game.cpp
+  Scoreboard.cpp
+  Generating Code...
+  LINK : C:\Users\User\OneDrive\Documents\repos\sprint-math-games-9th-grade-bugbusters\Bugbusters\Bugbusters\x64\Debug\Bugbusters.exe not found or not built by the last incremental link; performing full link
+  Bugbusters.vcxproj -> C:\Users\User\OneDrive\Documents\repos\sprint-math-games-9th-grade-bugbusters\Bugbusters\Bugbusters\x64\Debug\Bugbusters.exe
