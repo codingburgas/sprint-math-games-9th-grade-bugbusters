@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Project-Type-Game-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Difficulty-Beginner%20Friendly-yellow?style=for-the-badge" />
 </p>
 
@@ -100,20 +99,6 @@ Uses ANSI escape codes for:
 ### ⚙️ Difficulty Levels  
 - Easy / Medium / Hard  
 - Adjust guesses and word complexity  
-
----
-
-## 🚀 How to Build & Run
-
-### **Compile**
-g++ -std=c++17 main.cpp src/*.cpp -o hangman
-
-
-
-### **Run**
-./hangman
-
-
 
 ---
 
