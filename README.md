@@ -70,7 +70,6 @@ This project is perfect for **students**, **team assignments**, and anyone learn
 
 
 ---
-# 📌 Project Name
 
 ## 📄 Documents
 - 📘 [Documentation](https://docs.google.com/document/u/1/d/1j-xJd--OMwxWJ667ArD9ESGu_lXR0bs-/mobilebasic)
@@ -95,7 +94,6 @@ This project is perfect for **students**, **team assignments**, and anyone learn
 - Git & GitHub
 
 ## ✅ How to Run
-```bash
 git clone https://github.com/username/repo-name.git
 cd repo-name
 ---
