@@ -70,7 +70,35 @@ This project is perfect for **students**, **team assignments**, and anyone learn
 
 
 ---
+# 📌 Project Name
 
+## 📄 Documents
+- 📘 [Documentation](https://docs.google.com/document/u/1/d/1j-xJd--OMwxWJ667ArD9ESGu_lXR0bs-/mobilebasic)
+- 🎤 [Presentation](https://docs.google.com/presentation/d/1fFUlw_-zv6iT6al7i38h_EG4mb98Aj8p/mobilepresent?slide=id.p4)
+
+---
+
+## 👨‍💻 Team Members
+
+| Name | Role | Grade |
+|-----|------|-------|
+| **Hristiyan Mihaylov** | Scrum Trainer | 🟩 9V | 
+| **Yanislav Todorov** | Backend Developer | 🟦 9G |
+| **Georgi Gakev** | Frontend Developer | 🟩 9V |
+
+---
+
+
+## 🛠️ Technologies Used
+- HTML / CSS / JavaScript  
+- Backend технология (примерно: Node.js, Python, PHP)  
+- Git & GitHub
+
+## ✅ How to Run
+```bash
+git clone https://github.com/username/repo-name.git
+cd repo-name
+---
 ## 🔥 Features
 
 ### 🎨 Stunning Console UI  
